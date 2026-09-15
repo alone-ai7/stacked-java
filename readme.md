@@ -4,7 +4,7 @@
 
 Welcome to the repository! This project exists because if you walk into our school library and accidentally trip, you will land on three copies of *Introduction to Java Programming*, a dusty manual on Java 5. 
 
-Since our school's physical infrastructure is 90% Java literature, we figured it was only fair to contribute to the digital pollution.
+Since our school's physical infrastructure is 90% Java literature, I figured it was only fair to contribute to the digital pollution.
 
 ---
 
